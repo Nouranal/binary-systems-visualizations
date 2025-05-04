@@ -6,7 +6,7 @@ I developed this project with significant guidance from AI tools. They helped me
 
 ## Notebooks
 
-- [Visual Binary System](notebooks/visual_binary.ipynb) – Simulates and animates 3D orbits of binary stars for both equal- and unequal-mass configurations. Also includes a case study of Alpha Centauri AB using its observed parameters.
+- [Visual Binary System](notebooks/01_visual_binary.ipynb) – Simulates and animates 3D orbits of binary stars for both equal- and unequal-mass configurations. Also includes a case study of Alpha Centauri AB using its observed parameters.
 - Other binaries – *Coming soon*
 
 ## Requirements

@@ -15,7 +15,7 @@ See [`requirements.txt`](requirements.txt) for required Python packages.
 
 ## Sample Output
 
-![Visual Binary Sample](images/visual_binary_sample.png)
+![Visual Binary Sample](images/visual_binary_sample.gif)
 
 ## License
 

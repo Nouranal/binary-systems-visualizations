@@ -2,15 +2,16 @@
 
 This project provides interactive visualizations of various types of binary star systems using Python and Plotly. It is organized into separate Jupyter notebooks for clarity and future extensibility.
 
+I developed this project with significant guidance from AI tools. They helped me bridge gaps in coding knowledge—assisting with structuring, debugging, and refining the code. 
+
 ## Notebooks
 
-- [Visual Binary System](notebooks/visual_binary.ipynb) – Simulates and animates a 3D orbit for binary stars with different mass configurations, and Alpha Centauri AB.
-- [Eclipsing Binary System](notebooks/eclipsing_binary.ipynb) – *Coming soon*
-- [Spectroscopic Binary System](notebooks/spectroscopic_binary.ipynb) – *Coming soon*
+- [Visual Binary System](notebooks/visual_binary.ipynb) – Simulates and animates 3D orbits of binary stars for both equal- and unequal-mass configurations. Also includes a case study of Alpha Centauri AB using its observed parameters.
+- Other binaries – *Coming soon*
 
 ## Requirements
 
-See [`requirements.txt`](requirements.txt) for needed Python packages.
+See [`requirements.txt`](requirements.txt) for required Python packages.
 
 ## Sample Output
 
